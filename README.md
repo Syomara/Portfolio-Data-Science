@@ -18,7 +18,7 @@ Here you will find some projects and examples of work that I have done in the ar
 
 1. [About me](./aboutme) - My Profile and Contact
 2. [PowerBi](./pbi) - PowerBi visualization
-3. [Visualizations](./visualizations) - Visualizations in Python
+3. [Visualizations](./visualization) - Visualizations in Python
 4. [Machine Learning](./MLearning) - Machine Learning Models
 5. [Non-Tabular Data Processing](./nontabular) - Non-Tabular Data Analysis
 6. [Certifications](./certifications) - Certifications Obtained
