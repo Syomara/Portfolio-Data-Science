@@ -18,4 +18,4 @@ The project aims to show how to transform data into clear and visual information
 To access the full file in Power BI:
 [Dashboard en Google Drive](https://drive.google.com/file/d/1jro4eEkuvMmLf6ixPqnsm2cI_1ukZbwN/view?usp=sharing)
 
-[⬅ Volver al Portfolio principal](../README.md)
+[⬅ Back to Main Portfolio](../README.md)
