@@ -3,13 +3,13 @@
 This folder includes the materials for a project carried out in **Power BI**, with a focus on data analysis and the presentation of conclusions.
 
 ## 📑 Content:
-- 📄 [PDF con datos y conclusiones](./Proyecto%20de%20PBI%20-%20Syomara%20Bazzini.pdf)
-- 🖼️ Capturas de los dashboards:
-  - ![Carátula](./Carátula%20PBI.png)
-  - ![Pantalla Agencias](./Pantalla%20Agencias.png)
-  - ![Pantalla Destinos](./Pantalla%20Destinos.png)
-  - ![Pantalla Días](./Pantalla%20Días.png)
-  - ![Pantalla Horarios](./Pantalla%20Horarios.png)
+- 📄 [PDF with data and conclusions](./Proyecto%20de%20PBI%20-%20Syomara%20Bazzini.pdf)
+- 🖼️ Screenshots of the dashboards:
+  - ![Cover](./Carátula%20PBI.png)
+  - ![Screen Agencias](./Pantalla%20Agencias.png)
+  - ![Screen Destinos](./Pantalla%20Destinos.png)
+  - ![Screen Días](./Pantalla%20Días.png)
+  - ![Screen Horarios](./Pantalla%20Horarios.png)
 
 ## 🎯 Objective:
 The project aims to show how to transform data into clear and visual information, facilitating strategic decision-making through interactive dashboards.
