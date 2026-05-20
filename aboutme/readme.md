@@ -10,4 +10,4 @@ I currently focus on the area of ​​**Data Science**, specializing in machine
 - LinkedIn: [Syomara Bazzini](https://www.linkedin.com/in/syomara-bazzini-macchi-045558103)  
 - Email: syomarabazz@hotmail.com
 
-[⬅ Volver al Portfolio principal](../README.md)
+[⬅ Back to Main Portfolio](../README.md)
