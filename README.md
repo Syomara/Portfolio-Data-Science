@@ -23,7 +23,7 @@ Here you will find some projects and examples of work that I have done in the ar
 5. [Non-Tabular Data Processing](./nontabular) - Non-Tabular Data Analysis
 6. [Certifications](./certifications) - Certifications Obtained
 
-##📬 Contact
+## 📬 Contact
 
 - LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
 - Email: syomarabazz@hotmail.com
