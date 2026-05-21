@@ -20,4 +20,5 @@ This folder details the certifications I have obtained, which are also listed in
 
 - [Leadership and Team Management](./Liderazgo_y_Gestion_de_Equipos.png)
 
+
 [⬅ Back to Main Portfolio](../README.md)
