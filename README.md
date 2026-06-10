@@ -27,5 +27,5 @@ Here you will find some projects and examples of work that I have done in the ar
 
 ## 📬 Contact
 
-- LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi-045558103
+- LinkedIn: https://www.linkedin.com/in/syomara-bazzini-macchi
 - Email: syomarabazz@hotmail.com
