@@ -21,7 +21,9 @@ Here you will find some projects and examples of work that I have done in the ar
 3. [Visualizations](./visualization) - Visualizations in Python
 4. [Machine Learning](./MLearning) - Machine Learning Models
 5. [Non-Tabular Data Processing](./nontabular) - Non-Tabular Data Analysis
-6. [Certifications](./certifications) - Certifications Obtained
+6. [SQL](./sqlbasic) - SQL Tasks
+7. [Practice Project - Sample Superstore Dataset](./salesdataset) - Practice project with the Sample Superstore Dataset
+8. [Certifications](./certifications) - Certifications Obtained
 
 ## 📬 Contact
 
